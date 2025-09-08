@@ -11,6 +11,9 @@ I am currently pursuing a BS in Computer Science at Saint Xavier University. I'm
 - Improve my understanding of Python and Java
 - Graduate
 - Begin working on a portfolio that will increase my chances of finding employment
+
+## Contact Information/Links
+Linkedin - https://www.linkedin.com/in/daniel-scholvin-828645273/
 <!--
 **scholvind01-ui/scholvind01-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
