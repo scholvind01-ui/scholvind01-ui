@@ -1,6 +1,11 @@
 # Daniel Scholvin
 ## About Me:
 I am currently pursuing a BS in Computer Science at Saint Xavier University. I'm a senior on the volleyball team at Saint X and I'm looking to contribute in the workforce after I graduate.
+## Technical Skills:
+- Java
+- Html and CSS
+- Python (learning)
+- Git and GitHub (learning)
 <!--
 **scholvind01-ui/scholvind01-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
