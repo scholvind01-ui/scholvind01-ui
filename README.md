@@ -6,6 +6,11 @@ I am currently pursuing a BS in Computer Science at Saint Xavier University. I'm
 - Html and CSS
 - Python (learning)
 - Git and GitHub (learning)
+
+## Current Goals: 
+- Improve my understanding of Python and Java
+- Graduate
+- Begin working on a portfolio that will increase my chances of finding employment
 <!--
 **scholvind01-ui/scholvind01-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
