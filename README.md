@@ -16,3 +16,4 @@ I am currently pursuing a BS in Computer Science at Saint Xavier University. I'm
 ## Contact Information/Links
 [Linkedin](https://www.linkedin.com/in/daniel-scholvin-828645273/)
 
+Minor update to trigger deployment
