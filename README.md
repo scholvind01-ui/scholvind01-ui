@@ -16,5 +16,4 @@ I am currently pursuing a BS in Computer Science at Saint Xavier University. I'm
 ## Contact Information/Links
 [Linkedin](https://www.linkedin.com/in/daniel-scholvin-828645273/)
 
-## TechFlow Solutions Website 
-[![Deploy to GitHub Pages](https://github.com/scholvind01-ui/COMPSVIII-Assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/scholvind01-ui/COMPSVIII-Assignment2/actions/workflows/deploy.yml)
+
